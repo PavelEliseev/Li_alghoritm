@@ -3,7 +3,7 @@ from queue import *
 length=5
 start=(0, 0)
 finish=(2, 4)
-barriers=[(2, 3), (3, 2), (1, 4)]
+barriers=[(2, 4), (3, 3), (1, 2)]
 
 #build field function
 def build(length,start,barriers):
